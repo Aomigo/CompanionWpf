@@ -1,0 +1,51 @@
+{
+  "Concerts": [
+    {
+      "Artist": {
+        "Name": "Ado",
+        "PricePerHour": 140.5,
+        "isFavorite": false
+      },
+      "ConcertStart": "2026-11-10T12:00:00",
+      "ConcertEnd": "2026-11-10T15:10:00",
+      "ConcertPrice": 585,
+      "Scene": 1
+    },
+    {
+      "Artist": {
+        "Name": "Marcin",
+        "PricePerHour": 110.3,
+        "isFavorite": false
+      },
+      "ConcertStart": "2026-11-14T03:00:00",
+      "ConcertEnd": "2026-11-14T07:00:00",
+      "ConcertPrice": 441,
+      "Scene": 4
+    },
+    {
+      "Artist": {
+        "Name": "Tame Impala",
+        "PricePerHour": 170.0,
+        "isFavorite": false
+      },
+      "ConcertStart": "2026-11-10T16:00:00",
+      "ConcertEnd": "2026-11-10T21:35:00",
+      "ConcertPrice": 949,
+      "Scene": 1
+    },
+    {
+      "Artist": {
+        "Name": "Grioten",
+        "PricePerHour": 75.0,
+        "isFavorite": false
+      },
+      "ConcertStart": "2026-11-10T17:00:00",
+      "ConcertEnd": "2026-11-10T20:45:00",
+      "ConcertPrice": 281,
+      "Scene": 2
+    }
+  ],
+  "FestivalStart": "2026-11-09T10:00:05",
+  "FestivalEnd": "2026-11-16T10:00:05",
+  "Budget": 7744.0
+}
